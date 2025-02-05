@@ -18,7 +18,7 @@ Este método se encarga de actualizar la lista de amigos en la interfaz. Realiza
 
 Selecciona el elemento de la lista donde se mostrarán los nombres de los amigos.
 Limpia el contenido de la lista.
-Recorre el array amigos y agrega cada nombre como un nuevo elemento'<li>'dentro de la lista.
+Recorre el array amigos y agrega cada nombre como un nuevo elemento
 
 ````sortearAmigo()````
 Este método se encarga de seleccionar un amigo de forma aleatoria y mostrarlo en la interfaz. Realiza las siguientes acciones:
