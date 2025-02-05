@@ -1,8 +1,8 @@
 # challenge-amigo-secreto
 Desafío realizado con el fin de desarrollar habilidades en lógica de programación
-# Caracteristicas
+# Características
 El dasafio es acerca de sortear de forma aleatoria uno de los nombres ingresados por el usuario 
-# Uso de la aplicacion 
+# Uso de la aplicación 
 
 ````agregarAmigo()````
 Este método se encarga de agregar un nuevo amigo a la lista. Realiza las siguientes acciones:
